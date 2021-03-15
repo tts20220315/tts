@@ -1,0 +1,8 @@
+git checkout <branch_or_tag> 
+# For example: 
+git checkout master 
+# mainnet 
+git checkout ntwk-calibration 
+# calibration-net 
+git checkout ntwk-nerpa 
+# nerpa-net
